@@ -1,17 +1,31 @@
 <div data-importer="border", align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%F0%9F%91%BE%20Hi,%20I'm%20Charles!%20%F0%9F%9B%A0%EF%B8%8F&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%F0%9F%91%BE%20𝙷𝚒,%20𝙸'𝚖%20𝙲𝚑𝚊𝚛𝚕𝚎𝚜!%20%F0%9F%9B%A0%EF%B8%8F&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
 
-<p align="center">he/him</p>
+<p align="center">ｈｅ／ｈｉｍ</p>
 I attend University of Southampton (2024-27).
+
+Previous game development projects can be seen on [my itch.io page](https://charlsst.itch.io).
 
 ###
 
-🔭 I’m currently working on various university projects, including:
-- A GOAP-driven, two-tiered video game enemy prototype to evaluate the benefits of increased perceived intelligence in game NPCs.
+🔭 I’m currently working on various university projects:
+-  A GOAP-driven, two-tiered video game enemy prototype to evaluate the benefits of increased perceived intelligence in game NPCs.
 - Game design and development project involving a story engine and a branching narrative.
 - Cloud application project, using Microsoft Azure to build a study help software for students.
 - Computer vision project involving edge and shape detection.
+
+###
+
+💻 I have previously worked on:
+- Game design and development project focused on tutorialising a basic mechanic.
+- GMTK26 Game Jam entry called The Clocksmith, self-teaching myself Godot and GDScript.
+- 3D model renderer in Java, adapted from a YouTube tutorial.
+- Pixel sandbox simulator, as an introduction to using version control, branches, etc.
+- Roblox game [Jump Over The Walls](https://www.roblox.com/games/2745661925/Jump-Over-The-Walls)
+- Several years of Advent of Code.
+
+###
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
